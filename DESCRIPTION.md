@@ -37,10 +37,16 @@ Example : [code]Event crisis.666[/code]
 [*]Normaly it's done! (Clear event, destroy country type swarm or ai_empire).
 [/olist]
 
+[h1]Licence GPL-3.0[/h1]
+You can retrieve this mod on GitHub : [url=https://github.com/lquattro/stellaris-mod-force-clear-crisis-event]  GitHub Force Clear Crisis Event [/url]
+
+You can Follow me on steam, if you want receive the news (mod) and mod added. 
+
 [h1]Another Mod :[/h1]
 [list]
 [*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=686374827]  Sector Planet to 50 [/url]  [i](link steam)[/i]
 [*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=685666414]  Sector Planet to 100 [/url]  [i](link steam)[/i]
 [*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=689628539]  Micro System [/url] [i](link steam)[/i] : [i]Baby or Micro galaxy for fast game (compatible Multi)[/i]
+[*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=814013110]  Politicals Sector Planet [/url] [i](link steam)[/i]
 [/list]
 ```
