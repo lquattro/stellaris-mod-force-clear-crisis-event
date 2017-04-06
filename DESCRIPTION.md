@@ -3,14 +3,14 @@
 ## Force Clear Crisis Event
 
 ```
-[h1]-___Mod Verions 0.1.1___-[/h1]
+[h1]-___Mod Verions 0.1.2___-[/h1]
 
 EN : This mod is a tool to stop and clean crisis events, for people which have forgotten to uncheck the option at start in party configuration.
 FR : Ce mode est un outil permettant de stoper et nettoyer les crisis events, pour les personnes ayant oubliés de décocher l'option au début dans la configuration de partie. 
 
 [h1]Compatible : [/h1]
 [list]
-[*] Game version 1.2.*, 1.3.* and 1.4.*
+[*] Game version 1.2.*, 1.3.*, 1.4.*, 1.5.*
 [*] NOT game version 1.0.*, 1.1.*
 [*] Other mod
 [*] NOT Multiplayer
